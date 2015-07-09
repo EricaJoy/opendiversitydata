@@ -273,7 +273,17 @@ companies:
     documentation: https://sendgrid.com/blog/diversity-sendgrid/
     date-updated: 2014
     status: No 
-
+    
+  - name: Workday
+    url: https://www.workday.com/
+    twitter: Workday
+    img: workday.png
+    diversitydata: No
+    eeo-1: No
+    documentation: <link to company's diversity data>
+    date-updated: 2015
+    status: No
+    
   - name: Zynga
     url: https://www.zynga.com/
     twitter: Zynga
